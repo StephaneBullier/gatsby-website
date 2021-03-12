@@ -13,6 +13,7 @@ export default function Home() {
           <p>Web developer based in Montpellier.</p>
           <Link className={styles.btn} to="/projets">Mon portfolio</Link>
         </div>
+        <img src="banner.png" alt=""/>
       </section>
     </Layout>
   )
